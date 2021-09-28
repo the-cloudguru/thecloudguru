@@ -1,4 +1,4 @@
-CVCS
+CVCS -Central Version Control System
 DVCS
 good, you are learning git.
 
