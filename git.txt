@@ -1,5 +1,5 @@
-CVCS -Central Version Control System
-DVCS
+CVCS
+DVCS  Distributed Version Control System.
 good, you are learning git.
 
 nnnnnnnnnnn
